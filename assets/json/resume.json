@@ -8,7 +8,7 @@
       "postalCode": "NY 14850",
       "city": "Ithaca",
       "countryCode": "US",
-      "region": "California"
+      "region": "New York"
     },
     "profiles": []
   },
@@ -23,27 +23,20 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
+      "institution": "University of Cambridge",
+      "location": "Cambridge, United Kingdom",
+      "area": "Mathematics",
       "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "startDate": "2022-10-01",
+      "endDate": "2026-04-01"
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "University of Oxford",
+      "location": "Oxford, United Kingdom",
+      "area": "Mathematics",
+      "studyType": "Master of Mathematics",
+      "startDate": "2018-10-01",
+      "endDate": "2022-07-01"
     }
   ],
   "awards": [
