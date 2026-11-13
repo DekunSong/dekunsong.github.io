@@ -15,7 +15,7 @@ nav_order: 3
 
 - May 13 - 19, 2026: Beijing-Hangzhou-Zürich Moduli workshop, Peking University and Zhejiang University
   
-- Apr 6 - May 17, 2026: Visiting [Qizheng][http://faculty.bicmr.pku.edu.cn/~qizheng/] at BICMR
+- Apr 6 - May 17, 2026: Visiting [Qizheng](http://faculty.bicmr.pku.edu.cn/~qizheng/) at BICMR
   
 - Mar 16 - 20, 2026: Workshop 'Tropical Geometry, Moduli Spaces and Locally Symmetric Varieties,' Bielefeld University
 - Feb 10 - 13, 2026: Workshop 'Moduli in Heidelberg.'
