@@ -69,10 +69,10 @@ al_folio:
     source: al-org-dev/distill-template#al-folio
     allow_remote_loader: false
   features:
-    cv:
-      enabled: false
-    distill:
-      enabled: false
+    #cv:
+      #enabled: false
+    #distill:
+      #enabled: false
   compat:
     bootstrap:
       enabled: false
