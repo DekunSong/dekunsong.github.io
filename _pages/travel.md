@@ -33,7 +33,7 @@ nav_order: 3
 - Apr 14 - 18, 2025: Workshop "Enumerative geometry in logarithmic, tropical and real world," Les Diablerets
 -Oct - Nov, 2024: Visiting <a href="https://www.math.brown.edu/mchan2/">Melody</a>'s group at Brown University
 -Nov 8 - 10, 2024: <a href = "https://sites.google.com/site/agneshomepage/dartmouth-2024"/>AGNES + BATMOBILE</a> at Dartmouth
--Sept 9 - 13, 2024: [Workshop on tropical linear spaces](https://sites.google.com/view/tropical-linear-spaces/home) at Tübingen; [Minitalk]({% link /assets/pdf/minitalk.pdf %}) on weighted Dressians
+-Sept 9 - 13, 2024: [Workshop on tropical linear spaces](https://sites.google.com/view/tropical-linear-spaces/home) at Tübingen; [Minitalk](/assets/pdf/minitalk.pdf) on weighted Dressians
 -Jul 29  - Aug 2, 2024: Workshop on logarithmic moduli theory at Cambridge
 - Jul 8 - 19, 2024: Simons Center workshop on moduli, Stony Brook. <a href = "https://scgp.stonybrook.edu/video_portal/results.php?event_id=443"> Recordings</a>.
 - Jul 1 - 5, 2024: LMS invited Lectures by Dan Abramovich and co, Imperial College. <a href="https://sites.google.com/view/lms-invited-lectures-2024/lms-invited-lectures-2024/lectures-notes-recordings">Notes and recordings</a>.
