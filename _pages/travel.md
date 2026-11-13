@@ -4,21 +4,21 @@ permalink: /travel/
 title: travel
 ---
 <h3>Upcoming travels</h3>
-<li> Nov 20 - 22, 2026: <a href = "https://sites.google.com/site/agneshomepage/brown-2026">AGNES</a> at Brown</li>
+<li> Nov 15 - 30, 2026: Providence; Nov 20 - 22: <a href = "https://sites.google.com/site/agneshomepage/brown-2026">AGNES</a> at Brown</li>
 <li> Nov 30 - Dec 3, 2026: MIT</li>
 <h3>Past travels</h3>
-<li> Apr 6 - May 17, 2026: Visiting <a href="http://faculty.bicmr.pku.edu.cn/~qizheng/">Qizheng</a> at BICMR</li>
-<li> May 13 - 19, 2026: Beijing-Hangzhou-Zürich Moduli workshop, Peking University and Zhejiang University</li>
 <li> May 31 - June 5, 2026: Workshop "Moduli spaces and graph complexes in algebra, geometry and physics," Les Diablerets</li>
+<li> May 13 - 19, 2026: Beijing-Hangzhou-Zürich Moduli workshop, Peking University and Zhejiang University</li>
+<li> Apr 6 - May 17, 2026: Visiting <a href="http://faculty.bicmr.pku.edu.cn/~qizheng/">Qizheng</a> at BICMR</li>
 <li> Mar 16 - 20, 2026: Workshop 'Tropical Geometry, Moduli Spaces and Locally Symmetric Varieties,' Bielefeld University</li>
 <li> Feb 10 - 13, 2026: Workshop 'Moduli in Heidelberg.'</li>
 <li> Jan 4, 2026: AMS Special Session on Combinatorics and Moduli Spaces, Washington DC.</li>
 <li> Sep 8 - 12, 2025: School and workshop 'AlgTropCurves,' Università di Bologna.</li>
 <li> Jul 14 - 25, 2025: SRI in Algebraic Geometry, Fort Collins. [Poster]({{ '/assets/pdf/vz_cohomology_poster.pdf' | relative_url }}) on cohomology of the Vakil--Zinger space</a></li>
 <li> Jun 9 - 13, 2025: Conference 'Harmonies in Moduli Spaces' in occasion of Lucia Caporaso's birthday, Rome</li>
-<li> Apr 14 - 18, 2025: Workshop "Enumerative geometry in logarithmic, tropical and real world,"  Les Diablerets</li>
+<li> Apr 14 - 18, 2025: Workshop "Enumerative geometry in logarithmic, tropical and real world," Les Diablerets</li>
 <li>Oct - Nov, 2024: Visiting <a href="https://www.math.brown.edu/mchan2/">Melody</a>'s group at Brown University</li>
-<li>Nov 8 - 10, 2024: <a href = "https://sites.google.com/site/agneshomepage/dartmouth-2024"/>AGNES + BATMOBILE</a> at Dartmouth; <a href = "poster_agnes.pdf">poster</a></li>
+<li>Nov 8 - 10, 2024: <a href = "https://sites.google.com/site/agneshomepage/dartmouth-2024"/>AGNES + BATMOBILE</a> at Dartmouth</li>
 <li>Sept 9 - 13, 2024: <a href = "https://sites.google.com/view/tropical-linear-spaces/home"/>Workshop on tropical linear spaces</a> at Tübingen; [minitalk]({{ '/assets/pdf/minitalk.pdf' | relative_url }}) on weighted Dressians</li>
 <li>Jul 29  - Aug 2, 2024: Workshop on logarithmic moduli theory at Cambridge</li>
 <li> Jul 8 - 19, 2024: Simons Center workshop on moduli, Stony Brook. <a href = "https://scgp.stonybrook.edu/video_portal/results.php?event_id=443"> Recordings</a>.</li>
