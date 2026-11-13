@@ -35,7 +35,7 @@ nav_order: 3
   
 - Oct - Nov, 2024: Visiting <a href="https://www.math.brown.edu/mchan2/">Melody</a>'s group at Brown University
   
-- Nov 8 - 10, 2024: <a href = "https://sites.google.com/site/agneshomepage/dartmouth-2024"/>AGNES + BATMOBILE</a> at Dartmouth
+- Nov 8 - 10, 2024: [AGNES + BATMOBILE](https://sites.google.com/site/agneshomepage/dartmouth-2024) at Dartmouth
   
 - Sept 9 - 13, 2024: [Workshop on tropical linear spaces](https://sites.google.com/view/tropical-linear-spaces/home) at Tübingen. [Minitalk](/assets/pdf/minitalk.pdf) on weighted Dressians
   
@@ -50,15 +50,28 @@ nav_order: 3
 - Apr 18 - 19, 2024: GlEN workshop at St Andrews
   
 - Apr 10 - 12, 2024: BrAG workshop at Sheffield
+  
 - Feb 26  -  Mar 1, 2024: 'Panorama of moduli spaces' at Frankfurt. <a href = "https://www.youtube.com/watch?v=4B1wGP6PHLM&list=PL6J5B5TnHmtTCE2lm3hoUZ4Kk6gYOTrSP&pp=iAQB">Recordings</a>.
+  
 - Dec 11 - 15, 2023: Stability and enumerative geometry workshop at Oslo
+  
 - Nov 22, 2023: Calf meeting at Cambridge
+  
 - Oct 9 - 13, 2023: Vector bundles and combinatorial algebraic geometry at Frankfurt
+  
 - Sep 14 - 15, 2023: UK Algebraic geometry network conference at Nottingham
-- Jul 3 - 7, 2023: Conference on derived categories, moduli spaces, and counting invariants at Imperial 
-- Jun 28 - 30, 2023: GLEN workshop Derived Categories, Hodge theory and Singularities at Sheffield 
-- Jun 12 - 16, 2023: Conference 'Arithmetic, Birational Geometry, and Moduli Spaces' in celebration of Dan Abramovich's 60th birthday at Brown 
-- Mar 3, 2023: Calf meeting at Nottingham 
-- Jan 23 - 27, 2023: Conference 'Structures in Enumerative Geometry' at Sheffield 
-- Jan 9 - 13, 2023: Conference 'Quivers, Clusters, Moduli and Stability' in celebration of Alastair King's 60th birthday at Oxford 
+  
+- Jul 3 - 7, 2023: Conference on derived categories, moduli spaces, and counting invariants at Imperial
+  
+- Jun 28 - 30, 2023: GLEN workshop Derived Categories, Hodge theory and Singularities at Sheffield
+  
+- Jun 12 - 16, 2023: Conference 'Arithmetic, Birational Geometry, and Moduli Spaces' in celebration of Dan Abramovich's 60th birthday at Brown
+  
+- Mar 3, 2023: Calf meeting at Nottingham
+  
+- Jan 23 - 27, 2023: Conference 'Structures in Enumerative Geometry' at Sheffield
+  
+- Jan 9 - 13, 2023: Conference 'Quivers, Clusters, Moduli and Stability' in celebration of Alastair King's 60th birthday at Oxford
+  
 - Dec 5 - 7, 2022: Workshop on singularities and mirror symmetry at Glasgow
+  
