@@ -7,19 +7,19 @@ cv:
   summary: 
 
   social_networks:
-    - network: 
-      username: 
-    - network: 
-      username: 
-    - network: 
-      username: 
+    #- network: 
+    #  username: 
+    #- network: 
+    #  username: 
+    #- network: 
+    #  username: 
 
   address:
-    street: 
-    city: 
-    region: 
-    postalCode: 
-    countryCode: 
+    street: Malott Hall 210 Garden Avenue
+    city: Ithaca
+    region: NY, United States
+    postalCode: 14850
+    countryCode: United States
 
   sections:
     Education:
@@ -31,7 +31,7 @@ cv:
         start_date: 2022
         end_date: 2026
         score: ""
-        courses: "y"
+        courses: ""
         highlights:
         
       - institution: University of Oxford
@@ -41,21 +41,20 @@ cv:
         start_date: 2018
         end_date: 2022
         highlights:
-          - Gibbs Mathematical Prize
-          - Junior Mathematical Prize
+          
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: Department of Mathematics, Cornell University
+        position: Postdoctoral fellow
+        location: Cornell University, NY
+        start_date: 2026
+        end_date: ongoing
+        #summary: 
+        #highlights:
+          #- Relativity
+          #- Description 2.
 
-    Volunteer:
+    #Volunteer:
       #- company: People's Climate March
         #position: Lead Organizer
         #location: Zurich, Switzerland
