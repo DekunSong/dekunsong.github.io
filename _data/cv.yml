@@ -17,15 +17,14 @@ cv:
   address:
     street: Malott Hall 210 Garden Avenue
     city: Ithaca
-    region: NY, United States
+    region: NY
     postalCode: 14850
     countryCode: United States
 
   sections:
     Education:
       - institution: University of Cambridge
-        location: Cambridge, United Kingdom
-        url: 
+        location: Cambridge, UK
         area: Mathematics
         studyType: PhD
         start_date: 2022
@@ -35,7 +34,7 @@ cv:
         highlights:
         
       - institution: University of Oxford
-        location: Oxford, United Kingdom
+        location: Oxford, UK
         area: Mathematics
         studyType: Master of Mathematics
         start_date: 2018
