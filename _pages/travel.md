@@ -5,12 +5,14 @@ title: travel
 nav: true
 nav_order: 3
 ---
-<h3>Upcoming travels</h3>
+<h3>Upcoming travels</h3>  
+
 - Nov 15 - 30, 2026: Providence; Nov 20 - 22: <a href = "https://sites.google.com/site/agneshomepage/brown-2026">AGNES</a> at Brown  
 
 - Nov 30 - Dec 3, 2026: MIT
   
-<h3>Past travels</h3>
+<h3>Past travels</h3>  
+
 - May 31 - June 5, 2026: Workshop "Moduli spaces and graph complexes in algebra, geometry and physics," Les Diablerets  
 
 - May 13 - 19, 2026: Beijing-Hangzhou-Zürich Moduli workshop, Peking University and Zhejiang University
@@ -18,10 +20,15 @@ nav_order: 3
 - Apr 6 - May 17, 2026: Visiting [Qizheng](http://faculty.bicmr.pku.edu.cn/~qizheng/) at BICMR
   
 - Mar 16 - 20, 2026: Workshop 'Tropical Geometry, Moduli Spaces and Locally Symmetric Varieties,' Bielefeld University
+  
 - Feb 10 - 13, 2026: Workshop 'Moduli in Heidelberg.'
+  
 - Jan 4, 2026: AMS Special Session on Combinatorics and Moduli Spaces, Washington DC.
+  
 - Sep 8 - 12, 2025: School and workshop 'AlgTropCurves,' Università di Bologna.
-- Jul 14 - 25, 2025: SRI in Algebraic Geometry, Fort Collins. <a href="{% link /assets/pdf/VZ_cohomology_poster.pdf %}">Poster</a> on cohomology of the Vakil--Zinger space
+  
+- Jul 14 - 25, 2025: SRI in Algebraic Geometry, Fort Collins. [Poster]({% link /assets/pdf/VZ_cohomology_poster.pdf %}) on cohomology of the Vakil--Zinger space
+  
 - Jun 9 - 13, 2025: Conference 'Harmonies in Moduli Spaces' in occasion of Lucia Caporaso's birthday, Rome
 - Apr 14 - 18, 2025: Workshop "Enumerative geometry in logarithmic, tropical and real world," Les Diablerets
 -Oct - Nov, 2024: Visiting <a href="https://www.math.brown.edu/mchan2/">Melody</a>'s group at Brown University
