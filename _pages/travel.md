@@ -6,12 +6,17 @@ nav: true
 nav_order: 3
 ---
 <h3>Upcoming travels</h3>
-- Nov 15 - 30, 2026: Providence; Nov 20 - 22: <a href = "https://sites.google.com/site/agneshomepage/brown-2026">AGNES</a> at Brown
+- Nov 15 - 30, 2026: Providence; Nov 20 - 22: <a href = "https://sites.google.com/site/agneshomepage/brown-2026">AGNES</a> at Brown  
+
 - Nov 30 - Dec 3, 2026: MIT
+  
 <h3>Past travels</h3>
-- May 31 - June 5, 2026: Workshop "Moduli spaces and graph complexes in algebra, geometry and physics," Les Diablerets
+- May 31 - June 5, 2026: Workshop "Moduli spaces and graph complexes in algebra, geometry and physics," Les Diablerets  
+
 - May 13 - 19, 2026: Beijing-Hangzhou-Zürich Moduli workshop, Peking University and Zhejiang University
-- Apr 6 - May 17, 2026: Visiting <a href="http://faculty.bicmr.pku.edu.cn/~qizheng/">Qizheng</a> at BICMR
+  
+- Apr 6 - May 17, 2026: Visiting [Qizheng][http://faculty.bicmr.pku.edu.cn/~qizheng/] at BICMR
+  
 - Mar 16 - 20, 2026: Workshop 'Tropical Geometry, Moduli Spaces and Locally Symmetric Varieties,' Bielefeld University
 - Feb 10 - 13, 2026: Workshop 'Moduli in Heidelberg.'
 - Jan 4, 2026: AMS Special Session on Combinatorics and Moduli Spaces, Washington DC.
