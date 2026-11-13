@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://math.cornell.edu/terry-song'>Cornell University</a>.
+subtitle:
 
 profile:
   align: right
   image: p.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 505</p>
     <p>Malott Hall, 210 Garden Avenue</p>
     <p>Ithaca, NY, United States 14850</p>
 
@@ -26,3 +25,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am a postdoc at Cornell University supported by the <a href = "https://as.cornell.edu/research/klarman-fellowships">Klarman fellowship</a>, hosted by <a href = "https://sites.google.com/view/rachel-webb">Rachel Webb</a>. From 2022 to 2026 I was a PhD student at Cambridge University working with <a href = "https://www.dhruvrnathan.net/">Dhruv Ranganathan</a>.
+
+I think about moduli spaces in algebraic geometry, their topology, and how they interact with combinatorics, logarithmic, and tropical geometry. I also have interests in enumerative geometry.
