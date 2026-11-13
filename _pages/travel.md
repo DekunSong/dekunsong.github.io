@@ -27,7 +27,7 @@ nav_order: 3
   
 - Sep 8 - 12, 2025: School and workshop 'AlgTropCurves,' Università di Bologna.
   
-- Jul 14 - 25, 2025: SRI in Algebraic Geometry, Fort Collins. [Poster]({% link /assets/pdf/VZ_cohomology_poster.pdf %}) on cohomology of the Vakil--Zinger space
+- Jul 14 - 25, 2025: SRI in Algebraic Geometry, Fort Collins. [Poster](/assets/pdf/VZ_cohomology_poster.pdf) on cohomology of the Vakil--Zinger space
   
 - Jun 9 - 13, 2025: Conference 'Harmonies in Moduli Spaces' in occasion of Lucia Caporaso's birthday, Rome
 - Apr 14 - 18, 2025: Workshop "Enumerative geometry in logarithmic, tropical and real world," Les Diablerets
