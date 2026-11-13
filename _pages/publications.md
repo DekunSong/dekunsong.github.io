@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /writing/
-title: Writing
+title: writing
 description:
 nav: true
 nav_order: 2
