@@ -16,12 +16,12 @@ nav_order: 3
 <li> Feb 10 - 13, 2026: Workshop 'Moduli in Heidelberg.'</li>
 <li> Jan 4, 2026: AMS Special Session on Combinatorics and Moduli Spaces, Washington DC.</li>
 <li> Sep 8 - 12, 2025: School and workshop 'AlgTropCurves,' Università di Bologna.</li>
-<li> Jul 14 - 25, 2025: SRI in Algebraic Geometry, Fort Collins. [Poster]({% link /assets/pdf/VZ_cohomology_poster.pdf %}) on cohomology of the Vakil--Zinger space</li>
+<li> Jul 14 - 25, 2025: SRI in Algebraic Geometry, Fort Collins. <a href="{% link /assets/pdf/VZ_cohomology_poster.pdf %}">Poster</a> on cohomology of the Vakil--Zinger space</li>
 <li> Jun 9 - 13, 2025: Conference 'Harmonies in Moduli Spaces' in occasion of Lucia Caporaso's birthday, Rome</li>
 <li> Apr 14 - 18, 2025: Workshop "Enumerative geometry in logarithmic, tropical and real world," Les Diablerets</li>
 <li>Oct - Nov, 2024: Visiting <a href="https://www.math.brown.edu/mchan2/">Melody</a>'s group at Brown University</li>
 <li>Nov 8 - 10, 2024: <a href = "https://sites.google.com/site/agneshomepage/dartmouth-2024"/>AGNES + BATMOBILE</a> at Dartmouth</li>
-<li>Sept 9 - 13, 2024: <a href = "https://sites.google.com/view/tropical-linear-spaces/home"/>Workshop on tropical linear spaces</a> at Tübingen; [Minitalk]({% link /assets/pdf/minitalk.pdf %}) on weighted Dressians</li>
+<li>Sept 9 - 13, 2024: <a href = "https://sites.google.com/view/tropical-linear-spaces/home"/>Workshop on tropical linear spaces</a> at Tübingen; <a href="{% link /assets/pdf/minitalk.pdf %}">Minitalk</a> on weighted Dressians</li>
 <li>Jul 29  - Aug 2, 2024: Workshop on logarithmic moduli theory at Cambridge</li>
 <li> Jul 8 - 19, 2024: Simons Center workshop on moduli, Stony Brook. <a href = "https://scgp.stonybrook.edu/video_portal/results.php?event_id=443"> Recordings</a>.</li>
 <li> Jul 1 - 5, 2024: LMS invited Lectures by Dan Abramovich and co, Imperial College. <a href="https://sites.google.com/view/lms-invited-lectures-2024/lms-invited-lectures-2024/lectures-notes-recordings">Notes and recordings</a>.</li>
