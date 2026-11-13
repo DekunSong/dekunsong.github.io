@@ -37,9 +37,9 @@ nav_order: 3
   
 - Nov 8 - 10, 2024: <a href = "https://sites.google.com/site/agneshomepage/dartmouth-2024"/>AGNES + BATMOBILE</a> at Dartmouth
   
-- Sept 9 - 13, 2024: [Workshop on tropical linear spaces](https://sites.google.com/view/tropical-linear-spaces/home) at Tübingen; [Minitalk](/assets/pdf/minitalk.pdf) on weighted Dressians
+- Sept 9 - 13, 2024: [Workshop on tropical linear spaces](https://sites.google.com/view/tropical-linear-spaces/home) at Tübingen. [Minitalk](/assets/pdf/minitalk.pdf) on weighted Dressians
   
--Jul 29  - Aug 2, 2024: Workshop on logarithmic moduli theory at Cambridge  
+- Jul 29  - Aug 2, 2024: Workshop on logarithmic moduli theory at Cambridge  
 
 - Jul 8 - 19, 2024: Simons Center workshop on moduli, Stony Brook. <a href = "https://scgp.stonybrook.edu/video_portal/results.php?event_id=443"> Recordings</a>.
   
