@@ -3,7 +3,7 @@ layout: page
 permalink: /miscellaneous/
 title: miscellaneous
 nav: true
-nav_order: 3
+nav_order: 20
 ---
 I was born in <a href="https://en.wikipedia.org/wiki/Harbin"> Harbin</a> and grew up in Beijing. Before doing my PhD at Cambridge, I studied (2018-22) at St Peter's College, Oxford.
 
