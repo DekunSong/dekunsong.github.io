@@ -16,7 +16,7 @@ nav_order: 3
 <li> Feb 10 - 13, 2026: Workshop 'Moduli in Heidelberg.'</li>
 <li> Jan 4, 2026: AMS Special Session on Combinatorics and Moduli Spaces, Washington DC.</li>
 <li> Sep 8 - 12, 2025: School and workshop 'AlgTropCurves,' Università di Bologna.</li>
-<li> Jul 14 - 25, 2025: SRI in Algebraic Geometry, Fort Collins. [Poster]({% link /assets/pdf/vz_cohomology_poster.pdf %}) on cohomology of the Vakil--Zinger space</li>
+<li> Jul 14 - 25, 2025: SRI in Algebraic Geometry, Fort Collins. [Poster]({% link /assets/pdf/VZ_cohomology_poster.pdf %}) on cohomology of the Vakil--Zinger space</li>
 <li> Jun 9 - 13, 2025: Conference 'Harmonies in Moduli Spaces' in occasion of Lucia Caporaso's birthday, Rome</li>
 <li> Apr 14 - 18, 2025: Workshop "Enumerative geometry in logarithmic, tropical and real world," Les Diablerets</li>
 <li>Oct - Nov, 2024: Visiting <a href="https://www.math.brown.edu/mchan2/">Melody</a>'s group at Brown University</li>
