@@ -2,6 +2,8 @@
 layout: page
 permalink: /travel/
 title: travel
+nav: true
+nav_order: 3
 ---
 <h3>Upcoming travels</h3>
 <li> Nov 15 - 30, 2026: Providence; Nov 20 - 22: <a href = "https://sites.google.com/site/agneshomepage/brown-2026">AGNES</a> at Brown</li>
